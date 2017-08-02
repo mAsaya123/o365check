@@ -65,8 +65,7 @@ diff_result_all_ipv6="diff_${archive_cl_all_ipv6}.txt"
                                                                                #
 mail_from_ad="Office365@a10kk.com"
 mail_from_name="A10 O365 class-list builder"
-#mail_to="mssuga.772805@gmail.com"
-mail_to="msuga@a10networks.com"
+mail_to="test@example.com"
 
 ### E-mail message body - header ###############################################
 mail_message="\
